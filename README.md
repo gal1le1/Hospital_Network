@@ -20,4 +20,4 @@ Each service has 250 beds(means host) and a room for nurses and doctors. The roo
 
 ## Note
 
-Project isn't completed fully
+Project isn't fully completed
